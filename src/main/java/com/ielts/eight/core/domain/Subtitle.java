@@ -1,5 +1,7 @@
 package com.ielts.eight.core.domain;
 
+import com.ielts.eight.core.domain.rule.SubtitleRule;
+
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -34,7 +36,7 @@ public class Subtitle {
 
 	public boolean checkId(String line){
 		try{
-			Long id = Long.valueOf(line);
+			Long.valueOf(line);
 		}catch (Exception e){
 			return false;
 		}
@@ -44,6 +46,10 @@ public class Subtitle {
 
 	public boolean checkSubtitleTiming(String line){
 		return line.contains("-->");
+	}
+
+	public boolean checkLines(SubtitleRule subtitleRule){
+		return subtitleRule.check(this.lines);
 	}
 
 	public boolean checkLine(String content){
