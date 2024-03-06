@@ -1,0 +1,724 @@
+1
+00:00:00,000 --> 00:00:01,800
+thanks to Unreal for sponsoring this
+
+2
+00:00:01,800 --> 00:00:05,279
+video this is the unreal air a pair of
+
+3
+00:00:05,279 --> 00:00:07,740
+AR glasses that effectively lets you
+
+4
+00:00:07,740 --> 00:00:09,840
+watch content from your Android or your
+
+5
+00:00:09,840 --> 00:00:12,320
+iPhone on a giant
+
+6
+00:00:12,320 --> 00:00:15,360
+130 inch screen inside of the box we
+
+7
+00:00:15,360 --> 00:00:17,100
+have the carrying case your typical
+
+8
+00:00:17,100 --> 00:00:19,260
+documentation a couple of different nose
+
+9
+00:00:19,260 --> 00:00:21,539
+pads a light Shield cover that can give
+
+10
+00:00:21,539 --> 00:00:23,699
+you a more immersive experience and a
+
+11
+00:00:23,699 --> 00:00:25,619
+prescription lens frame just in case you
+
+12
+00:00:25,619 --> 00:00:28,140
+need it but here is the unreal air
+
+13
+00:00:28,140 --> 00:00:32,159
+itself and it looks pretty good given
+
+14
+00:00:32,159 --> 00:00:33,840
+all the tech that they were able to pack
+
+15
+00:00:33,840 --> 00:00:36,660
+in here it's actually not too far off
+
+16
+00:00:36,660 --> 00:00:39,360
+from a pair of regular sunglasses which
+
+17
+00:00:39,360 --> 00:00:41,579
+they were clearly inspired by obviously
+
+18
+00:00:41,579 --> 00:00:44,100
+They are thicker but surprisingly
+
+19
+00:00:44,100 --> 00:00:45,899
+they're not as heavy as I thought they
+
+20
+00:00:45,899 --> 00:00:49,260
+would be coming in at just 79 grams now
+
+21
+00:00:49,260 --> 00:00:51,300
+this is in part thanks to the unreal air
+
+22
+00:00:51,300 --> 00:00:54,120
+not having a built-in battery with the
+
+23
+00:00:54,120 --> 00:00:56,160
+glasses instead being powered completely
+
+24
+00:00:56,160 --> 00:00:59,699
+via USBC which for Android phones is no
+
+25
+00:00:59,699 --> 00:01:01,620
+problem you just plug it in and it
+
+26
+00:01:01,620 --> 00:01:03,780
+provides both power and mirrors whatever
+
+27
+00:01:03,780 --> 00:01:05,760
+is on your screen whereas with iPhones
+
+28
+00:01:05,760 --> 00:01:08,460
+up until now this wasn't really possible
+
+29
+00:01:08,460 --> 00:01:11,220
+but with the new Unreal adapter they
+
+30
+00:01:11,220 --> 00:01:13,200
+figured it out with it working perfectly
+
+31
+00:01:13,200 --> 00:01:15,479
+with Apple's AV Adapter letting you
+
+32
+00:01:15,479 --> 00:01:17,299
+mirror whatever is on your iPhone screen
+
+33
+00:01:17,299 --> 00:01:21,119
+at 130 inches but the big question of
+
+34
+00:01:21,119 --> 00:01:23,939
+course is how does it look right like
+
+35
+00:01:23,939 --> 00:01:26,640
+well the thought of having a 130 inch
+
+36
+00:01:26,640 --> 00:01:29,220
+screen anywhere you go sounds good on
+
+37
+00:01:29,220 --> 00:01:31,439
+paper we've heard claims like these with
+
+38
+00:01:31,439 --> 00:01:33,720
+VR headsets before where it's almost
+
+39
+00:01:33,720 --> 00:01:35,820
+always let down since they all have that
+
+40
+00:01:35,820 --> 00:01:38,400
+screen door effect where all you see is
+
+41
+00:01:38,400 --> 00:01:40,759
+just pixels with the unreal air however
+
+42
+00:01:40,759 --> 00:01:43,320
+there is none of that I was actually
+
+43
+00:01:43,320 --> 00:01:45,840
+blown away with how sharp it is there's
+
+44
+00:01:45,840 --> 00:01:47,820
+two micro OLED displays with a
+
+45
+00:01:47,820 --> 00:01:51,000
+resolution of 3840x1080 which across the
+
+46
+00:01:51,000 --> 00:01:53,340
+46 degree field of view gives you over
+
+47
+00:01:53,340 --> 00:01:55,500
+twice the pixels per degree compared to
+
+48
+00:01:55,500 --> 00:01:57,479
+something like the quest 2. now I'm not
+
+49
+00:01:57,479 --> 00:02:00,060
+saying that it's an 8K experience or
+
+50
+00:02:00,060 --> 00:02:03,720
+thing but it is a 1080p experience and
+
+51
+00:02:03,720 --> 00:02:06,659
+for watching videos and movies it's been
+
+52
+00:02:06,659 --> 00:02:08,639
+great especially if you pair them with a
+
+53
+00:02:08,639 --> 00:02:10,258
+good set of earbuds which just takes
+
+54
+00:02:10,258 --> 00:02:12,420
+things to the next level of course you
+
+55
+00:02:12,420 --> 00:02:14,580
+don't actually have to use earbuds with
+
+56
+00:02:14,580 --> 00:02:16,560
+these since they do have built-in
+
+57
+00:02:16,560 --> 00:02:19,680
+speakers on each arm which you know are
+
+58
+00:02:19,680 --> 00:02:22,080
+fine for things like YouTube videos but
+
+59
+00:02:22,080 --> 00:02:23,400
+if you really want that home theater
+
+60
+00:02:23,400 --> 00:02:25,379
+Vibe using these with earbuds is
+
+61
+00:02:25,379 --> 00:02:27,599
+definitely the way to go now the screens
+
+62
+00:02:27,599 --> 00:02:29,220
+themselves provide a perceived
+
+63
+00:02:29,220 --> 00:02:32,099
+brightness of up to 400 nits and
+
+64
+00:02:32,099 --> 00:02:34,560
+generally that's more than bright enough
+
+65
+00:02:34,560 --> 00:02:36,239
+for example you can't even see anything
+
+66
+00:02:36,239 --> 00:02:37,980
+behind the screen when you have white
+
+67
+00:02:37,980 --> 00:02:40,560
+displaying on it but with the darker
+
+68
+00:02:40,560 --> 00:02:42,599
+colors you do start to become aware of
+
+69
+00:02:42,599 --> 00:02:44,580
+your surroundings which is kind of the
+
+70
+00:02:44,580 --> 00:02:46,800
+point of AR glasses and we'll talk about
+
+71
+00:02:46,800 --> 00:02:49,080
+the AR specific applications in a little
+
+72
+00:02:49,080 --> 00:02:51,180
+but if you're just wanting to use these
+
+73
+00:02:51,180 --> 00:02:53,160
+as a giant screen and nothing more
+
+74
+00:02:53,160 --> 00:02:54,840
+putting the light Shield cover on this
+
+75
+00:02:54,840 --> 00:02:56,819
+gives you the most vibrant experience
+
+76
+00:02:56,819 --> 00:02:58,140
+since it doesn't have to compete with
+
+77
+00:02:58,140 --> 00:03:00,000
+the lights in your environment Okay so
+
+78
+00:03:00,000 --> 00:03:02,580
+it's really hard to demonstrate on
+
+79
+00:03:02,580 --> 00:03:04,860
+camera how this thing actually looks in
+
+80
+00:03:04,860 --> 00:03:06,900
+person since sticking a camera up close
+
+81
+00:03:06,900 --> 00:03:08,640
+to it creates a bunch of Reflections
+
+82
+00:03:08,640 --> 00:03:09,959
+that aren't really there when you wear
+
+83
+00:03:09,959 --> 00:03:11,760
+them and even then the sizing is
+
+84
+00:03:11,760 --> 00:03:13,500
+different from what you perceive with
+
+85
+00:03:13,500 --> 00:03:15,180
+your eyes so just for your reference
+
+86
+00:03:15,180 --> 00:03:17,879
+this is what a 55 inch TV looks like
+
+87
+00:03:17,879 --> 00:03:20,099
+from 13 feet away which matches the
+
+88
+00:03:20,099 --> 00:03:22,680
+perceived distance on the unreal air and
+
+89
+00:03:22,680 --> 00:03:26,280
+this is how big the 130 inch screen
+
+90
+00:03:26,280 --> 00:03:29,879
+actually looks so just giant now in
+
+91
+00:03:29,879 --> 00:03:31,500
+addition to being able to watch videos
+
+92
+00:03:31,500 --> 00:03:34,080
+on Netflix on Hulu and YouTube and all
+
+93
+00:03:34,080 --> 00:03:35,819
+those other streaming apps you can also
+
+94
+00:03:35,819 --> 00:03:38,879
+just mirror whatever is on your phone or
+
+95
+00:03:38,879 --> 00:03:41,159
+computer screen since these basically
+
+96
+00:03:41,159 --> 00:03:44,099
+act as a monitor meaning you can work on
+
+97
+00:03:44,099 --> 00:03:46,799
+Excel you can use Samsung's decks you
+
+98
+00:03:46,799 --> 00:03:48,780
+can connect it to your M series Mac or
+
+99
+00:03:48,780 --> 00:03:50,400
+you can just play games on your phone
+
+100
+00:03:50,400 --> 00:03:52,680
+which is even better when you connect a
+
+101
+00:03:52,680 --> 00:03:54,840
+controller to it since these also work
+
+102
+00:03:54,840 --> 00:03:57,360
+with Xbox game pass so some real
+
+103
+00:03:57,360 --> 00:03:59,400
+opportunities to take advantage of that
+
+104
+00:03:59,400 --> 00:04:01,560
+giant screen but beyond just using these
+
+105
+00:04:01,560 --> 00:04:04,799
+as a monitor or a TV unreal also has a
+
+106
+00:04:04,799 --> 00:04:06,959
+mixed reality mode through their nebula
+
+107
+00:04:06,959 --> 00:04:09,060
+app where you're in a 3D environment
+
+108
+00:04:09,060 --> 00:04:11,340
+with ar native content at the moment
+
+109
+00:04:11,340 --> 00:04:13,739
+this only works with Android phones and
+
+110
+00:04:13,739 --> 00:04:15,540
+you know there isn't a huge amount of
+
+111
+00:04:15,540 --> 00:04:17,519
+content just yet but one of the better
+
+112
+00:04:17,519 --> 00:04:19,858
+examples is the cycling app where you
+
+113
+00:04:19,858 --> 00:04:21,060
+can simulate what it's like to be
+
+114
+00:04:21,060 --> 00:04:22,919
+cycling or walking through a scenic
+
+115
+00:04:22,919 --> 00:04:24,960
+route while you're at home and on a
+
+116
+00:04:24,960 --> 00:04:26,880
+treadmill and interestingly in this
+
+117
+00:04:26,880 --> 00:04:28,860
+mixed reality mode you can make the
+
+118
+00:04:28,860 --> 00:04:32,400
+screen size even bigger at 201 inches
+
+119
+00:04:32,400 --> 00:04:35,160
+from a perceived six feet away which is
+
+120
+00:04:35,160 --> 00:04:37,979
+absolutely wild but you know for me the
+
+121
+00:04:37,979 --> 00:04:41,040
+main use case here is using it as a
+
+122
+00:04:41,040 --> 00:04:43,800
+giant display on the go the air stuff is
+
+123
+00:04:43,800 --> 00:04:45,000
+cool and I'm sure it's going to get
+
+124
+00:04:45,000 --> 00:04:47,040
+better over time but just using these
+
+125
+00:04:47,040 --> 00:04:48,780
+around the house like when you're lying
+
+126
+00:04:48,780 --> 00:04:51,060
+in bed it's a game changer for example
+
+127
+00:04:51,060 --> 00:04:52,800
+if you're using it in bed at night you
+
+128
+00:04:52,800 --> 00:04:54,660
+get that big screen without blasting
+
+129
+00:04:54,660 --> 00:04:56,520
+light all over the room so if you have a
+
+130
+00:04:56,520 --> 00:04:58,080
+roommate or a partner you can actually
+
+131
+00:04:58,080 --> 00:04:59,940
+watch a movie without disturbing the
+
+132
+00:04:59,940 --> 00:05:02,100
+them while they're sleeping and on a
+
+133
+00:05:02,100 --> 00:05:03,360
+similar note if you're using it in
+
+134
+00:05:03,360 --> 00:05:05,340
+public spaces like on an airplane for
+
+135
+00:05:05,340 --> 00:05:07,139
+example it comes with the added benefit
+
+136
+00:05:07,139 --> 00:05:09,360
+of privacy where nobody else can
+
+137
+00:05:09,360 --> 00:05:11,280
+eavesdrop on what you're looking at on
+
+138
+00:05:11,280 --> 00:05:12,840
+your screen and then in those contexts
+
+139
+00:05:12,840 --> 00:05:14,160
+where you would otherwise be using your
+
+140
+00:05:14,160 --> 00:05:15,660
+phone for like a long period of time
+
+141
+00:05:15,660 --> 00:05:17,520
+this is a much more comfortable
+
+142
+00:05:17,520 --> 00:05:19,919
+experience since it's hands-free you
+
+143
+00:05:19,919 --> 00:05:21,060
+don't have to bend your neck down to
+
+144
+00:05:21,060 --> 00:05:23,220
+look at your screen and you can truly
+
+145
+00:05:23,220 --> 00:05:26,160
+just sit back and relax now that's not
+
+146
+00:05:26,160 --> 00:05:28,199
+to say that these are perfect well you
+
+147
+00:05:28,199 --> 00:05:29,940
+can use it as a second monitor for your
+
+148
+00:05:29,940 --> 00:05:31,979
+computer or for browsing the web because
+
+149
+00:05:31,979 --> 00:05:35,580
+we're talking about 1080p on a 130 inch
+
+150
+00:05:35,580 --> 00:05:37,979
+screen there is some pixelation around
+
+151
+00:05:37,979 --> 00:05:40,380
+text so I personally prefer using it
+
+152
+00:05:40,380 --> 00:05:42,120
+just for video although using it with
+
+153
+00:05:42,120 --> 00:05:44,039
+Samsung phones with Dex is pretty
+
+154
+00:05:44,039 --> 00:05:45,600
+awesome and then if you're moving around
+
+155
+00:05:45,600 --> 00:05:47,220
+a lot like when you're in a bumpy car
+
+156
+00:05:47,220 --> 00:05:49,440
+without the head tracking mode in the
+
+157
+00:05:49,440 --> 00:05:51,120
+nebula app like it would be with the
+
+158
+00:05:51,120 --> 00:05:54,060
+iPhone it could be a bit too shaky but
+
+159
+00:05:54,060 --> 00:05:55,860
+if you're sitting relatively still and
+
+160
+00:05:55,860 --> 00:05:57,960
+relaxed like on an airplane at the
+
+161
+00:05:57,960 --> 00:05:59,520
+doctor's office or just at home on the
+
+162
+00:05:59,520 --> 00:06:00,300
+couch
+
+163
+00:06:00,300 --> 00:06:03,060
+it's pretty good and it's easily the
+
+164
+00:06:03,060 --> 00:06:04,680
+best viewing experience I've had
+
+165
+00:06:04,680 --> 00:06:07,560
+compared to any other AR or VR headset
+
+166
+00:06:07,560 --> 00:06:09,720
+I've tried the unreal air comes in at
+
+167
+00:06:09,720 --> 00:06:10,699
+just
+
+168
+00:06:10,699 --> 00:06:13,500
+379 dollars which I don't think is too
+
+169
+00:06:13,500 --> 00:06:15,120
+bad considering it's Cutting Edge Tech
+
+170
+00:06:15,120 --> 00:06:17,039
+although if you have an iPhone the
+
+171
+00:06:17,039 --> 00:06:19,320
+unreal adapter and Apple's official AV
+
+172
+00:06:19,320 --> 00:06:21,720
+Adapter are sold separately you can now
+
+173
+00:06:21,720 --> 00:06:23,940
+buy it directly on Amazon with the
+
+174
+00:06:23,940 --> 00:06:26,460
+unreal error officially launching in the
+
+175
+00:06:26,460 --> 00:06:28,440
+US I'll be dropping all the links you
+
+176
+00:06:28,440 --> 00:06:30,900
+need Down Below in the description but
+
+177
+00:06:30,900 --> 00:06:32,699
+that's pretty much it for me in this
+
+178
+00:06:32,699 --> 00:06:34,139
+video big thanks to Unreal for
+
+179
+00:06:34,139 --> 00:06:35,940
+sponsoring it thank you guys for
+
+180
+00:06:35,940 --> 00:06:39,720
+watching and as always I'll see you in
+
+181
+00:06:39,720 --> 00:06:42,560
+the very next episode
+
