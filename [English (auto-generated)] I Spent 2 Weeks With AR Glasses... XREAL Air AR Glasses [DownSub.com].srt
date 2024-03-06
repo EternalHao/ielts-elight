@@ -1,0 +1,932 @@
+1
+00:00:00,000 --> 00:00:01,860
+I've been struggling to find a way to
+
+2
+00:00:01,860 --> 00:00:04,140
+explain what this product is how it
+
+3
+00:00:04,140 --> 00:00:06,120
+works and why you should potentially
+
+4
+00:00:06,120 --> 00:00:08,160
+keep your eye on them not because
+
+5
+00:00:08,160 --> 00:00:10,139
+they're bad or not interesting by any
+
+6
+00:00:10,139 --> 00:00:12,780
+means in fact the quite opposite this
+
+7
+00:00:12,780 --> 00:00:13,860
+has got to be one of the most
+
+8
+00:00:13,860 --> 00:00:15,660
+interesting things that I've ever had a
+
+9
+00:00:15,660 --> 00:00:17,460
+chance to take a look at on this YouTube
+
+10
+00:00:17,460 --> 00:00:20,520
+channel these unassuming glasses allow
+
+11
+00:00:20,520 --> 00:00:22,740
+you to achieve both in augmented reality
+
+12
+00:00:22,740 --> 00:00:25,380
+and virtual reality experience anywhere
+
+13
+00:00:25,380 --> 00:00:29,820
+you go with up to a 201 inch 1080p OLED
+
+14
+00:00:29,820 --> 00:00:31,859
+display it's actually kind of
+
+15
+00:00:31,859 --> 00:00:33,960
+unbelievable before we go further though
+
+16
+00:00:33,960 --> 00:00:36,239
+I do want to thank xreel for sending
+
+17
+00:00:36,239 --> 00:00:38,219
+these out and sponsoring this video and
+
+18
+00:00:38,219 --> 00:00:40,200
+allowing me to take a look at what is
+
+19
+00:00:40,200 --> 00:00:42,899
+now probably one of my favorite pieces
+
+20
+00:00:42,899 --> 00:00:45,360
+of tech that being said though and to be
+
+21
+00:00:45,360 --> 00:00:47,520
+clear everything in this video that I
+
+22
+00:00:47,520 --> 00:00:50,100
+talk about is my opinion and my opinion
+
+23
+00:00:50,100 --> 00:00:52,860
+alone so hit that like button subscribe
+
+24
+00:00:52,860 --> 00:00:54,420
+to the channel and let's get right into
+
+25
+00:00:54,420 --> 00:00:56,940
+it just to clear some air here no pun
+
+26
+00:00:56,940 --> 00:00:58,320
+intended you might have seen these
+
+27
+00:00:58,320 --> 00:01:00,600
+before under a different name and unreal
+
+28
+00:01:00,600 --> 00:01:03,120
+this is the same product and the same
+
+29
+00:01:03,120 --> 00:01:05,159
+brand you can trust however they've
+
+30
+00:01:05,159 --> 00:01:07,979
+rebranded themselves to xreel anyways I
+
+31
+00:01:07,979 --> 00:01:09,360
+think it's important to take a look at
+
+32
+00:01:09,360 --> 00:01:10,860
+these from the outside in because
+
+33
+00:01:10,860 --> 00:01:13,260
+there's just so much to talk about and I
+
+34
+00:01:13,260 --> 00:01:14,939
+don't want anyone getting lost along the
+
+35
+00:01:14,939 --> 00:01:17,220
+way these look like your typical pair of
+
+36
+00:01:17,220 --> 00:01:19,260
+sunglasses they even come with a nice
+
+37
+00:01:19,260 --> 00:01:22,560
+carrying case a few extra Bridge sizes a
+
+38
+00:01:22,560 --> 00:01:24,720
+microfiber cloth a prescription lens
+
+39
+00:01:24,720 --> 00:01:26,820
+frame and pretty much everything that
+
+40
+00:01:26,820 --> 00:01:29,040
+you'd expect from sunglasses but when
+
+41
+00:01:29,040 --> 00:01:31,500
+you look deeper there's a USB C to C
+
+42
+00:01:31,500 --> 00:01:35,460
+cable a blackout cover and wait what's
+
+43
+00:01:35,460 --> 00:01:38,880
+this each lens has its own display this
+
+44
+00:01:38,880 --> 00:01:40,140
+is where things start to get a little
+
+45
+00:01:40,140 --> 00:01:42,360
+funky because when you put on the xreel
+
+46
+00:01:42,360 --> 00:01:44,280
+air you're able to see right through
+
+47
+00:01:44,280 --> 00:01:46,500
+them as you would with a regular pair of
+
+48
+00:01:46,500 --> 00:01:48,720
+glasses but the second that you connect
+
+49
+00:01:48,720 --> 00:01:50,939
+them to a phone or a device like a
+
+50
+00:01:50,939 --> 00:01:53,820
+laptop a games console or my favorite
+
+51
+00:01:53,820 --> 00:01:56,460
+the steam deck you'd see it come to life
+
+52
+00:01:56,460 --> 00:01:58,680
+now it is quite hard to explain to you
+
+53
+00:01:58,680 --> 00:02:01,200
+what exactly the these look like in real
+
+54
+00:02:01,200 --> 00:02:02,640
+life so I'm gonna have to do my best
+
+55
+00:02:02,640 --> 00:02:04,500
+with showing you video through the
+
+56
+00:02:04,500 --> 00:02:07,380
+lenses but if there's an analogy that I
+
+57
+00:02:07,380 --> 00:02:08,880
+can give you that will help with this
+
+58
+00:02:08,880 --> 00:02:11,940
+just picture this it's like having a
+
+59
+00:02:11,940 --> 00:02:13,920
+floating display a few feet away from
+
+60
+00:02:13,920 --> 00:02:16,739
+you a very large display at that all the
+
+61
+00:02:16,739 --> 00:02:20,760
+way from 130 inches to 201 inches it
+
+62
+00:02:20,760 --> 00:02:22,379
+really does feel like the content that
+
+63
+00:02:22,379 --> 00:02:24,599
+you're watching is in the room in a
+
+64
+00:02:24,599 --> 00:02:26,520
+sense now you're probably thinking to
+
+65
+00:02:26,520 --> 00:02:29,040
+yourself how is this practical well
+
+66
+00:02:29,040 --> 00:02:30,840
+because there's head tracking and you
+
+67
+00:02:30,840 --> 00:02:32,879
+also have a virtual reality environment
+
+68
+00:02:32,879 --> 00:02:34,739
+which we'll get to there's a lot that
+
+69
+00:02:34,739 --> 00:02:36,660
+you can do and the possibilities with
+
+70
+00:02:36,660 --> 00:02:39,120
+these are kind of Limitless one way that
+
+71
+00:02:39,120 --> 00:02:40,860
+I've used them is while sitting at my
+
+72
+00:02:40,860 --> 00:02:43,080
+desk to watch TV I'm doing other things
+
+73
+00:02:43,080 --> 00:02:45,000
+like script writing when I want to take
+
+74
+00:02:45,000 --> 00:02:46,739
+a look at what's going on I turn my head
+
+75
+00:02:46,739 --> 00:02:48,720
+to the side catch up with what's going
+
+76
+00:02:48,720 --> 00:02:51,000
+on in the show look forward and just get
+
+77
+00:02:51,000 --> 00:02:53,459
+right back to work another example is if
+
+78
+00:02:53,459 --> 00:02:55,080
+you're following a recipe in the kitchen
+
+79
+00:02:55,080 --> 00:02:57,060
+you can watch a cooking video whilst
+
+80
+00:02:57,060 --> 00:02:59,099
+you're actually cooking and be able to
+
+81
+00:02:59,099 --> 00:03:00,840
+see what you're doing doing without a
+
+82
+00:03:00,840 --> 00:03:02,940
+problem and follow along just by moving
+
+83
+00:03:02,940 --> 00:03:05,459
+your head I like the TV example because
+
+84
+00:03:05,459 --> 00:03:08,459
+for me I find it very difficult to have
+
+85
+00:03:08,459 --> 00:03:10,800
+a ton of things going on at once so if I
+
+86
+00:03:10,800 --> 00:03:12,540
+put up a YouTube video while I'm on my
+
+87
+00:03:12,540 --> 00:03:14,580
+computer it's very hard for me to focus
+
+88
+00:03:14,580 --> 00:03:16,920
+because of my ADHD so being able to kind
+
+89
+00:03:16,920 --> 00:03:19,200
+of have it off to the side and out of
+
+90
+00:03:19,200 --> 00:03:21,120
+view just allows me to do two things at
+
+91
+00:03:21,120 --> 00:03:23,040
+once without getting too much in my head
+
+92
+00:03:23,040 --> 00:03:25,140
+though I will be honest I will be lying
+
+93
+00:03:25,140 --> 00:03:27,239
+if I said that I didn't mostly use them
+
+94
+00:03:27,239 --> 00:03:28,920
+with my steam deck to play some video
+
+95
+00:03:28,920 --> 00:03:30,780
+games there's just something about
+
+96
+00:03:30,780 --> 00:03:32,459
+laying on the couch putting on the
+
+97
+00:03:32,459 --> 00:03:34,260
+blackout cover and experiencing games
+
+98
+00:03:34,260 --> 00:03:36,840
+like dead cells in what quite literally
+
+99
+00:03:36,840 --> 00:03:39,239
+feels like a movie theater what's also
+
+100
+00:03:39,239 --> 00:03:41,040
+nice is that there's speakers built in
+
+101
+00:03:41,040 --> 00:03:42,840
+so there's no need to grab a pair of
+
+102
+00:03:42,840 --> 00:03:44,700
+earbuds or headphones to be able to make
+
+103
+00:03:44,700 --> 00:03:47,220
+this a complete experience and they do
+
+104
+00:03:47,220 --> 00:03:49,500
+sound really good for what they are I've
+
+105
+00:03:49,500 --> 00:03:51,540
+had no complaints when watching TV or
+
+106
+00:03:51,540 --> 00:03:53,760
+playing video games and even listening
+
+107
+00:03:53,760 --> 00:03:55,680
+to music through them considering how
+
+108
+00:03:55,680 --> 00:03:58,200
+small these drivers must be I'm actually
+
+109
+00:03:58,200 --> 00:03:59,760
+really happy with the sound that comes
+
+110
+00:03:59,760 --> 00:04:01,980
+out of them before we dive into the VR
+
+111
+00:04:01,980 --> 00:04:04,080
+space though there is something that I
+
+112
+00:04:04,080 --> 00:04:05,340
+thought was going to be an issue with
+
+113
+00:04:05,340 --> 00:04:06,720
+these that I ended up just being
+
+114
+00:04:06,720 --> 00:04:08,580
+completely wrong about and that's
+
+115
+00:04:08,580 --> 00:04:10,560
+Comfort when I first saw these months
+
+116
+00:04:10,560 --> 00:04:12,780
+ago well before xreel even reached out
+
+117
+00:04:12,780 --> 00:04:14,640
+to me to take a look at these I thought
+
+118
+00:04:14,640 --> 00:04:16,858
+that they'd be cumbersome heavy and just
+
+119
+00:04:16,858 --> 00:04:19,139
+not pleasing to wear at all for any
+
+120
+00:04:19,139 --> 00:04:21,600
+extended period of time and I'm just
+
+121
+00:04:21,600 --> 00:04:23,520
+happy to say that I was completely wrong
+
+122
+00:04:23,520 --> 00:04:26,759
+firstly these things only weigh 79 grams
+
+123
+00:04:26,759 --> 00:04:28,560
+and when you consider the amount of tech
+
+124
+00:04:28,560 --> 00:04:30,479
+inside them it's actually really
+
+125
+00:04:30,479 --> 00:04:32,520
+impressive one thing keeping the weight
+
+126
+00:04:32,520 --> 00:04:34,259
+down though is the fact that there's no
+
+127
+00:04:34,259 --> 00:04:35,880
+internal battery they're powered by
+
+128
+00:04:35,880 --> 00:04:38,160
+whichever device you're connecting to so
+
+129
+00:04:38,160 --> 00:04:40,080
+that's something to keep in mind as your
+
+130
+00:04:40,080 --> 00:04:41,520
+usage and the time that you spend
+
+131
+00:04:41,520 --> 00:04:43,740
+wearing them will just depend on the
+
+132
+00:04:43,740 --> 00:04:45,300
+battery life of whatever it's connected
+
+133
+00:04:45,300 --> 00:04:47,160
+to I haven't found this to be a problem
+
+134
+00:04:47,160 --> 00:04:48,960
+on the devices that I've used but if you
+
+135
+00:04:48,960 --> 00:04:50,639
+do have a phone with a less efficient
+
+136
+00:04:50,639 --> 00:04:53,580
+chip or just a smaller battery just be a
+
+137
+00:04:53,580 --> 00:04:55,560
+little bit more mindful they also stay
+
+138
+00:04:55,560 --> 00:04:58,080
+on my head quite well and really do just
+
+139
+00:04:58,080 --> 00:05:00,600
+feel like I'm wearing sunglasses is like
+
+140
+00:05:00,600 --> 00:05:02,280
+like it doesn't really feel like
+
+141
+00:05:02,280 --> 00:05:03,960
+anything's getting in the way or that
+
+142
+00:05:03,960 --> 00:05:05,580
+I'm wearing something that I shouldn't
+
+143
+00:05:05,580 --> 00:05:08,520
+which is really nice because if you do
+
+144
+00:05:08,520 --> 00:05:09,900
+want to wear these for an extended
+
+145
+00:05:09,900 --> 00:05:12,360
+period of time you just don't really
+
+146
+00:05:12,360 --> 00:05:14,280
+have to think about it one thing that
+
+147
+00:05:14,280 --> 00:05:15,960
+did help though was the three Bridge
+
+148
+00:05:15,960 --> 00:05:17,639
+adjustments that came inside of the
+
+149
+00:05:17,639 --> 00:05:19,740
+packaging I ended up actually choosing
+
+150
+00:05:19,740 --> 00:05:21,960
+the largest one I believe as I just felt
+
+151
+00:05:21,960 --> 00:05:23,520
+it was the most comfortable on my face
+
+152
+00:05:23,520 --> 00:05:25,620
+and I'm happy that I was given the
+
+153
+00:05:25,620 --> 00:05:27,900
+option something like this cannot and
+
+154
+00:05:27,900 --> 00:05:30,780
+should not be a one size fits all so I'm
+
+155
+00:05:30,780 --> 00:05:32,400
+just really happy that this is something
+
+156
+00:05:32,400 --> 00:05:34,560
+that they thought about there are also
+
+157
+00:05:34,560 --> 00:05:35,820
+physical buttons for brightness
+
+158
+00:05:35,820 --> 00:05:37,860
+adjustment and one to turn the screen
+
+159
+00:05:37,860 --> 00:05:40,199
+off and on at first I was a little
+
+160
+00:05:40,199 --> 00:05:42,120
+confused as to how I'm able to turn the
+
+161
+00:05:42,120 --> 00:05:44,340
+volume up but I realize I'm just not
+
+162
+00:05:44,340 --> 00:05:46,259
+very smart because you can adjust it on
+
+163
+00:05:46,259 --> 00:05:48,479
+whatever device is connected but not
+
+164
+00:05:48,479 --> 00:05:50,880
+only that it turns out there is actually
+
+165
+00:05:50,880 --> 00:05:52,919
+a way just by holding the brightness key
+
+166
+00:05:52,919 --> 00:05:55,199
+for three seconds then you are able to
+
+167
+00:05:55,199 --> 00:05:56,759
+change the volume through the glasses
+
+168
+00:05:56,759 --> 00:05:58,740
+themselves moving on though what I
+
+169
+00:05:58,740 --> 00:06:00,120
+really want to talk about is the
+
+170
+00:06:00,120 --> 00:06:02,520
+augmented reality capabilities of the
+
+171
+00:06:02,520 --> 00:06:04,740
+xreel air because this is where things
+
+172
+00:06:04,740 --> 00:06:07,080
+get mind-blowing having a large display
+
+173
+00:06:07,080 --> 00:06:09,180
+at your disposal is quite amazing
+
+174
+00:06:09,180 --> 00:06:11,160
+especially if you're traveling or want
+
+175
+00:06:11,160 --> 00:06:13,320
+to keep what you're watching private but
+
+176
+00:06:13,320 --> 00:06:15,600
+if you have a compatible smartphone you
+
+177
+00:06:15,600 --> 00:06:17,759
+can use the nebula app which turns your
+
+178
+00:06:17,759 --> 00:06:20,039
+phone into a motion controlled and touch
+
+179
+00:06:20,039 --> 00:06:22,500
+sensitive remote not only that but the
+
+180
+00:06:22,500 --> 00:06:24,900
+glasses themselves open up a whole new
+
+181
+00:06:24,900 --> 00:06:26,639
+world of possibilities from a
+
+182
+00:06:26,639 --> 00:06:28,620
+full-fledged web browser with the
+
+183
+00:06:28,620 --> 00:06:30,479
+ability to place multiple tabs in
+
+184
+00:06:30,479 --> 00:06:32,819
+different areas apps for social media
+
+185
+00:06:32,819 --> 00:06:35,759
+like Twitter Youtube and even games this
+
+186
+00:06:35,759 --> 00:06:37,919
+is called their AR space and it's
+
+187
+00:06:37,919 --> 00:06:40,259
+actually incredible like I said these
+
+188
+00:06:40,259 --> 00:06:43,259
+glasses have two 1080p OLED displays and
+
+189
+00:06:43,259 --> 00:06:46,139
+they're running at 60 hertz so it
+
+190
+00:06:46,139 --> 00:06:47,460
+essentially tricks your mind into
+
+191
+00:06:47,460 --> 00:06:49,020
+thinking there's actual depth between
+
+192
+00:06:49,020 --> 00:06:51,720
+the content and you as well as other
+
+193
+00:06:51,720 --> 00:06:54,120
+content or apps and windows this is
+
+194
+00:06:54,120 --> 00:06:55,319
+something that I really cannot
+
+195
+00:06:55,319 --> 00:06:57,419
+demonstrate as any screen recordings
+
+196
+00:06:57,419 --> 00:06:59,039
+won't show you how this looks in real
+
+197
+00:06:59,039 --> 00:07:01,020
+life but if you've ever used a VR
+
+198
+00:07:01,020 --> 00:07:03,000
+headset you know what to experience
+
+199
+00:07:03,000 --> 00:07:04,740
+another thing that I want to show off
+
+200
+00:07:04,740 --> 00:07:06,419
+quickly though is that you can use the
+
+201
+00:07:06,419 --> 00:07:08,400
+nebula for Mac app to get a triple
+
+202
+00:07:08,400 --> 00:07:10,979
+monitor setup literally anywhere via one
+
+203
+00:07:10,979 --> 00:07:13,919
+USBC cable that's included in the box so
+
+204
+00:07:13,919 --> 00:07:15,780
+if you're on a plane or away from home
+
+205
+00:07:15,780 --> 00:07:17,940
+for extended periods I can see these
+
+206
+00:07:17,940 --> 00:07:20,400
+being very practical to get actual work
+
+207
+00:07:20,400 --> 00:07:22,620
+done the major difference to this in
+
+208
+00:07:22,620 --> 00:07:25,080
+just any other VR headset though is the
+
+209
+00:07:25,080 --> 00:07:27,900
+portability the accessibility and the
+
+210
+00:07:27,900 --> 00:07:29,280
+choice between using it with the
+
+211
+00:07:29,280 --> 00:07:32,039
+blackout cover on or off it really feels
+
+212
+00:07:32,039 --> 00:07:34,500
+like you're living in this weird AR VR
+
+213
+00:07:34,500 --> 00:07:37,380
+smart home kind of thing and it's just
+
+214
+00:07:37,380 --> 00:07:39,840
+really cool all of this heavily reminds
+
+215
+00:07:39,840 --> 00:07:42,060
+me of something like ready player one I
+
+216
+00:07:42,060 --> 00:07:43,860
+just can't believe this Tech is actually
+
+217
+00:07:43,860 --> 00:07:46,259
+something that does exist one thing that
+
+218
+00:07:46,259 --> 00:07:47,759
+I've learned though with my time spent
+
+219
+00:07:47,759 --> 00:07:49,860
+with the xreel air is that these aren't
+
+220
+00:07:49,860 --> 00:07:51,660
+a gimmick and these can be really
+
+221
+00:07:51,660 --> 00:07:53,759
+functional in your everyday life they're
+
+222
+00:07:53,759 --> 00:07:56,220
+great for gaming watching movies YouTube
+
+223
+00:07:56,220 --> 00:07:58,800
+and a vast amount of other things it's
+
+224
+00:07:58,800 --> 00:08:01,139
+really up to you to best figure out how
+
+225
+00:08:01,139 --> 00:08:03,240
+you can utilize them anyways I hope you
+
+226
+00:08:03,240 --> 00:08:05,099
+all enjoyed this video thank you so much
+
+227
+00:08:05,099 --> 00:08:07,080
+to xreel for allowing me to make this
+
+228
+00:08:07,080 --> 00:08:09,960
+video and try these out to be honest I'm
+
+229
+00:08:09,960 --> 00:08:11,759
+kind of sad that I have to give these
+
+230
+00:08:11,759 --> 00:08:13,740
+back because they're a lot of fun and I
+
+231
+00:08:13,740 --> 00:08:15,300
+really do want to mess around with them
+
+232
+00:08:15,300 --> 00:08:17,220
+a little bit more but
+
+233
+00:08:17,220 --> 00:08:21,379
+I'll catch you in the next one peace
+
